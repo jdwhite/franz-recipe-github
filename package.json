@@ -1,0 +1,17 @@
+{
+  "id": "github",
+  "name": "Github",
+  "version": "1.0.0",
+  "description": "Github",
+  "main": "index.js",
+  "author": "Jason White <jdwhite@menelos.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jdwhite/franz-recipe-github",  
+  "config": {
+    "serviceURL": "https://github.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": true,
+    "hasTeamId": false
+  }
+}
