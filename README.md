@@ -11,7 +11,7 @@ To install a new recipe:
 * Mac: `~/Library/Application Support/Franz/recipes/dev/`
 * Linux: `~/.config/Franz/recipes/dev/`
 * Windows: `%appdata%/Franz/recipes/dev/`
-2. Clone or copy the contents of this repo to a directory named `github` in the `dev` folder.
+2. Clone or copy the contents of this repo to a directory named `franz-recipe-github` in the `dev` folder.
 3. Reload Franz.
 4. Add a new service. Click the "Development" button under available services
 to see the recipes added in `.../recipes/dev/`.
