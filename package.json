@@ -10,7 +10,7 @@
   "config": {
     "serviceURL": "https://github.com",
     "hasNotificationSound": true,
-    "hasDirectMessages": false,
+    "hasDirectMessages": true,
     "hasIndirectMessages": true,
     "hasTeamId": false
   }
